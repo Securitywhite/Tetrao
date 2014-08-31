@@ -1,0 +1,9 @@
+c:\users\avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\obj\Debug\AnusPounder - Client.csprojResolveAssemblyReference.cache
+c:\users\avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\obj\Debug\AnusPounder___Client.Main.resources
+c:\users\avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\obj\Debug\AnusPounder___Client.Properties.Resources.resources
+c:\users\avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\obj\Debug\AnusPounder - Client.csproj.GenerateResource.Cache
+C:\Users\Avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\bin\Debug\AnusPounder - Client.exe.config
+C:\Users\Avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\bin\Debug\AnusPounder - Client.exe
+C:\Users\Avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\bin\Debug\AnusPounder - Client.pdb
+C:\Users\Avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\obj\Debug\AnusPounder - Client.exe
+C:\Users\Avinash\documents\visual studio 2013\Projects\AnusPounder\AnusPounder - Client\obj\Debug\AnusPounder - Client.pdb
